@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+a {
+    color: white;
+    background-color: white;
+    font-size: 40px;
+}
+
+.corpo:hover {
+    background-color: rgb(99, 19, 19);
+    
+}
+
+h1 {
+    color: red;
+    margin: 70px auto;
+}
+
+footer {
+    color: white;
+    position: absolute;
+    height: 70px;
+    width: 100%;
+    bottom: 0px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.corpo {
+    background-color: black;
+    border: 2px solid red;
+    padding: 10px 10px;
+}
